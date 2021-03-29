@@ -14,7 +14,7 @@ It performs following Sqoop operations-
 7. Generate java code
 8. View Results
 9. List All DataBases of MySQl
-10. Liast All Tables of Mysql
+10. List All Tables of Mysql
 11. Execuite A Query On Mysql
 
 Prerequisite :-
